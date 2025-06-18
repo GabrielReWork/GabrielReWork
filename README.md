@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gabriel Regel, sou desenvolvedor FullStack e atualmente estou cursando o 3º ano do Ensino Médio com ênfase em Desenvolvimento de Sistemas. Trabalho em projetos pessoais e empresariais, além de participar de hackathons e eventos de tecnologia.
+Me chamo Gabriel Regel, sou desenvolvedor FullStack e atualmente curso o 3º ano do Ensino Médio com foco em Desenvolvimento de Sistemas. Tenho experiência com projetos pessoais e profissionais, atuando tanto no front-end quanto no back-end. Também participo de hackathons e eventos de tecnologia, onde busco aprimorar minhas habilidades em equipe, lógica e resolução de problemas. Estou sempre aprendendo novas tecnologias e buscando evoluir como desenvolvedor.
 
 <p align="left">
     <a href="https://github.com/GabrielRegel?tab=followers">
