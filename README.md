@@ -1,17 +1,76 @@
-# Bem-vindo ao meu GitHub Empresarial 💻
+# 👨🏼‍💻 Gabriel Regel
 
-Este perfil é dedicado aos projetos empresariais desenvolvidos internamente. Aqui, você encontrará repositórios relacionados às nossas soluções, ferramentas e colaborações para aprimorar nossos produtos e processos.
+**`Desenvolvedor FullStack`**
 
-## 📌 Sobre
-Este GitHub é utilizado exclusivamente para fins corporativos, incluindo o desenvolvimento, manutenção e versionamento de nossos projetos internos e externos.
+Me chamo Gabriel Regel, sou desenvolvedor FullStack e atualmente estou cursando o 3º ano do Ensino Médio com ênfase em Desenvolvimento de Sistemas. Trabalho em projetos pessoais e empresariais, além de participar de hackathons e eventos de tecnologia.
 
-## 💼 Colaboração
-Se você faz parte da equipe, siga as diretrizes internas para contribuição. Caso tenha dúvidas, entre em contato com o responsável pelo repositório.
-
-📩 **Contato:** [Ti@Ponce.Vc]
+<p align="left">
+    <a href="https://github.com/GabrielRegel?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/GabrielRegel?color=000000&labelColor=808080&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/gabrielregel">
+        <img 
+            alt="LinkedIn Profile" 
+            title="Conecte-se comigo no LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-GABRIEL REGEL-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a> 
+    <a href="https://github.com/GabrielRegel?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/GabrielRegel?color=yellow&style=for-the-badge&logo=star&label=Estrelas"
+        />
+    </a>
+    <a href="https://maps.app.goo.gl/KjLH55961bKXTHFb8">
+        <img 
+            alt="Localização" 
+            title="Veja minha localização no mapa" 
+            src="https://custom-icon-badges.demolab.com/badge/PARANÁ-BRA-008000?style=for-the-badge&logo=location&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-🔒 **Repositórios privados e informações sigilosas devem seguir as diretrizes de segurança da empresa.**
+### 🤖 Linguagens e Tecnologias
 
-<img src="https://camo.githubusercontent.com/91a1cee21865b9ab3734edacd97c37044a06c7b1f86b54ae80da891f2442c513/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f6973737565732d70722d636c6f7365642f44656e766572436f646572312f637573746f6d2d69636f6e2d6261646765733f636f6c6f723d707572706c65266c6f676f3d6769742d70756c6c2d72657175657374266c6f676f436f6c6f723d7768697465" alt="pr closed" data-canonical-src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/GabrielRegel/custom-icon-badges?color=purple&amp;logo=git-pull-request&amp;logoColor=white" style="max-width: 100%;">
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="NPM" title="NPM" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Dart" title="Dart" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielRegel&show_icons=true&theme=radical" 
+  />
+
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRegel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
