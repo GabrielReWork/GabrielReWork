@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Gabriel Regel
+# Gabriel Regel
 
 **`Desenvolvedor FullStack`**
 
