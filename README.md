@@ -67,7 +67,7 @@ Me chamo Gabriel Regel, sou desenvolvedor FullStack e atualmente curso o 3º ano
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     alt="Top Langs"
-    height="200"
+    height="196"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRegel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
