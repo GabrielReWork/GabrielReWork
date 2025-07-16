@@ -63,7 +63,6 @@ Me chamo Gabriel Regel, sou desenvolvedor FullStack e atualmente curso o 3º ano
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=GabrielRegel&show_icons=true&theme=radical" 
   />
 
